@@ -1,0 +1,20 @@
+[30-Jun-2012 17:03:56] PHP Warning:  include(filter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/socialpa/public_html/Admi/Header.php on line 10
+[30-Jun-2012 17:03:56] PHP Warning:  include(filter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/socialpa/public_html/Admi/Header.php on line 10
+[30-Jun-2012 17:03:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'filter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/socialpa/public_html/Admi/Header.php on line 10
+[30-Jun-2012 17:20:17] PHP Fatal error:  Cannot redeclare filter() (previously declared in /home/socialpa/public_html/filter.php:33) in /home/socialpa/public_html/filter.php on line 53
+[30-Jun-2012 17:20:18] PHP Fatal error:  Cannot redeclare filter() (previously declared in /home/socialpa/public_html/filter.php:33) in /home/socialpa/public_html/filter.php on line 53
+[30-Jun-2012 17:20:43] PHP Fatal error:  Cannot redeclare filter() (previously declared in /home/socialpa/public_html/filter.php:33) in /home/socialpa/public_html/filter.php on line 53
+[30-Jun-2012 17:20:51] PHP Fatal error:  Cannot redeclare filter() (previously declared in /home/socialpa/public_html/filter.php:33) in /home/socialpa/public_html/filter.php on line 53
+[30-Jun-2012 17:20:58] PHP Fatal error:  Cannot redeclare filter() (previously declared in /home/socialpa/public_html/filter.php:33) in /home/socialpa/public_html/filter.php on line 53
+[30-Jun-2012 17:23:48] PHP Fatal error:  Cannot redeclare filter() (previously declared in /home/socialpa/public_html/filter.php:33) in /home/socialpa/public_html/filter.php on line 53
+[30-Jun-2012 17:24:02] PHP Fatal error:  Cannot redeclare filter() (previously declared in /home/socialpa/public_html/filter.php:33) in /home/socialpa/public_html/filter.php on line 53
+[13-Jul-2012 07:01:38] PHP Fatal error:  Call to undefined function  securestring() in /home/socialpa/public_html/Admi/user_search.php on line 25
+[13-Jul-2012 07:01:39] PHP Fatal error:  Call to undefined function  securestring() in /home/socialpa/public_html/Admi/user_search.php on line 25
+[13-Jul-2012 07:01:48] PHP Fatal error:  Call to undefined function  securestring() in /home/socialpa/public_html/Admi/user_search.php on line 25
+[13-Jul-2012 07:01:49] PHP Fatal error:  Call to undefined function  securestring() in /home/socialpa/public_html/Admi/user_search.php on line 25
+[13-Jul-2012 07:01:52] PHP Warning:  include(filter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/socialpa/public_html/Admi/Header.php on line 3
+[13-Jul-2012 07:01:52] PHP Warning:  include(filter.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/socialpa/public_html/Admi/Header.php on line 3
+[13-Jul-2012 07:01:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'filter.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/socialpa/public_html/Admi/Header.php on line 3
+[13-Jul-2012 07:01:52] PHP Fatal error:  Call to undefined function  securestring() in /home/socialpa/public_html/Admi/user_search.php on line 25
+[13-Jul-2012 07:02:52] PHP Fatal error:  Call to undefined function  mysql_real_escape_strings() in /home/socialpa/public_html/filter.php on line 87
+[13-Jul-2012 07:02:53] PHP Fatal error:  Call to undefined function  mysql_real_escape_strings() in /home/socialpa/public_html/filter.php on line 87
